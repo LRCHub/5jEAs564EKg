@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エゴの在価",
+  "base_artist": "Mumei",
+  "createdAt": "2026-02-16T05:33:34.698238Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エゴの在価",
+      "artist": "Mumei",
+      "has_synced": false,
+      "path": "select/pl_01_エゴの在価_Mumei.txt"
+    }
+  ]
+}
